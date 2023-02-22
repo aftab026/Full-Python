@@ -1,0 +1,3 @@
+s = {20, 20.0, "20"} # len is 2 becau python is calculat 20 and 20.0 is same. if you use 20.1 or any other than len is 3...
+print(s)
+print(len(s))
